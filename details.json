@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Md Sarowar Islam",
+      "yearsOfExperience": 7,
+      "likes": 90,
+      "number": 20,
+      "image": "https://im.rediff.com/getahead/2018/jul/03saransh2.jpg?w=670&h=900",
+      "food": "Bangladeshi",
+      "bio": "Md Sarowar Islam is a Bangladeshi chef, restaurateur, television personality, and writer. He is one of the most famous chefs in the world and is known for his fiery personality and high standards in the kitchen."
+
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "yearsOfExperience": 3,
+      "likes": 200,
+      "number": 5,
+      "image": "https://media.istockphoto.com/id/174772192/photo/chinese-chef.jpg?s=612x612&w=0&k=20&c=M1cL2DZYKzujRAHMGuxh0qE8sjG4RGQOanf1krY5J6g=",
+      "food": "Chinese",
+      "bio": "Bob Johnson is an Chinese chef, author, and television personality. She is the founder and owner of Milk Bar, a dessert and bakery chain. Tosi is known for her playful and creative approach to desserts."
+    },
+    {
+      "id": 3,
+      "name": "Cathy Lee",
+      "yearsOfExperience": 12,
+      "likes": 150,
+      "number": 8,
+      "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1024,h_773,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ucy1ocwhx0s8r9g8luky/BlueElephantThaiCookingClass-KlookNewZealand.jpg",
+      "food": "Thai",
+      "bio": "Cathy Lee is a Thai chef, restaurateur, television personality, and writer. He is one of the most famous chefs in the world and is known for his fiery personality and high standards in the kitchen."
+    },
+    {
+      "id": 4,
+      "name": "Shema Das",
+      "yearsOfExperience": 9,
+      "likes": 120,
+      "number": 12,
+      "image": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
+      "food": "Indian",
+      "bio": "Shema Das is an Indian chef, restaurateur, and cookbook writer. He is the founder and owner of Junoon, a restaurant that specializes in Indian cuisine. Khanna has been recognized for his contributions to Indian cuisine and his philanthropic work."
+    },
+    {
+      "id": 5,
+      "name": "Emily Wu",
+      "yearsOfExperience": 5,
+      "likes": 80,
+      "number": 18,
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+      "food": "French",
+      "bio": "Emily Wu is an French chef and restaurateur. He is the owner and chef of Osteria Francescana, which has been ranked as one of the world's best restaurants. Bottura is known for his innovative approach to French cuisine."
+    },
+    {
+      "id": 6,
+      "name": "Frank Zhang",
+      "yearsOfExperience": 2,
+      "likes": 50,
+      "number": 3,
+      "image": "https://www.escoffier.edu/wp-content/uploads/2021/02/Smiling-male-black-chef-with-white-coat-and-hat-scaled.jpg",
+      "food": "African",
+      "bio": "Frank Zhang is an African chef, author, and food activist. She is the founder of Chez Panisse, a restaurant in Berkeley, California, that is known for its focus on locally sourced, organic ingredients. Waters is a pioneer of the farm-to-table movement."
+    }
+  ]
