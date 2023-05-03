@@ -5,7 +5,7 @@
       "yearsOfExperience": 7,
       "likes": 90,
       "number": 20,
-      "image": "https://im.rediff.com/getahead/2018/jul/03saransh2.jpg?w=670&h=900",
+      "image": "https://www.escoffier.edu/wp-content/uploads/2021/02/Smiling-male-black-chef-with-white-coat-and-hat-scaled.jpg",
       "food": "Bangladeshi",
       "bio": "Md Sarowar Islam is a Bangladeshi chef, restaurateur, television personality, and writer. He is one of the most famous chefs in the world and is known for his fiery personality and high standards in the kitchen."
 
@@ -16,7 +16,7 @@
       "yearsOfExperience": 3,
       "likes": 200,
       "number": 5,
-      "image": "https://media.istockphoto.com/id/174772192/photo/chinese-chef.jpg?s=612x612&w=0&k=20&c=M1cL2DZYKzujRAHMGuxh0qE8sjG4RGQOanf1krY5J6g=",
+      "image": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
       "food": "Chinese",
       "bio": "Bob Johnson is an Chinese chef, author, and television personality. She is the founder and owner of Milk Bar, a dessert and bakery chain. Tosi is known for her playful and creative approach to desserts."
     },
@@ -26,7 +26,7 @@
       "yearsOfExperience": 12,
       "likes": 150,
       "number": 8,
-      "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1024,h_773,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ucy1ocwhx0s8r9g8luky/BlueElephantThaiCookingClass-KlookNewZealand.jpg",
+      "image": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
       "food": "Thai",
       "bio": "Cathy Lee is a Thai chef, restaurateur, television personality, and writer. He is one of the most famous chefs in the world and is known for his fiery personality and high standards in the kitchen."
     },
@@ -57,7 +57,7 @@
       "likes": 50,
       "number": 3,
       "image": "https://www.escoffier.edu/wp-content/uploads/2021/02/Smiling-male-black-chef-with-white-coat-and-hat-scaled.jpg",
-      "food": "African",
+      "food": "Italian",
       "bio": "Frank Zhang is an African chef, author, and food activist. She is the founder of Chez Panisse, a restaurant in Berkeley, California, that is known for its focus on locally sourced, organic ingredients. Waters is a pioneer of the farm-to-table movement."
     }
   ]
